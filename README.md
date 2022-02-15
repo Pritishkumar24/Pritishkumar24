@@ -5,7 +5,7 @@ My tech stack are :
 Scripting: HTML5, CSS3,JavaScript(ES5,ES6+) 
 Frameworks: ReactJS, Angular 6+
 Service Layer: Node.js, express.js
-databases: mongoDB, NoSQL, MySQL
+Databases: mongoDB, NoSQL, MySQL
 
 <!---
 Pritishkumar24/Pritishkumar24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
