@@ -1,5 +1,5 @@
 Hi, Pritish Kumar here, I work as a MERN stack developer and I am passionate about ReactJS/javaScript.
-I have worked on a few personal projects and have proven experience in the business industry.
+I have worked on a few personal projects and have proven experience in the e-commerce and retail industry.
 
 My tech stack are :
 Scripting: HTML5, CSS3,JavaScript(ES5,ES6+) 
