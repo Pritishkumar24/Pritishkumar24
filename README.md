@@ -1,5 +1,5 @@
-Hi, Pritish Kumar here, I work as a MERN stack developer and I am passionate about ReactJS/javaScript.
-I have worked on a few personal projects and have proven experience in the e-commerce and retail industry.
+Hi, I am Pritish Kumar, I work as a MERN stack developer and I am passionate about ReactJS/JavaScript.
+I have worked on a few personal projects and have proven experience in the e-commerce/retail and banking domains.
 
 ### 💻 Tech Stack
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,7 +9,7 @@ I have worked on a few personal projects and have proven experience in the e-com
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
